@@ -77,3 +77,7 @@ C:\Users\daisy\source\repos\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\Newslett
 C:\Users\daisy\source\repos\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.csproj.CopyComplete
 C:\Users\daisy\source\repos\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.dll
 C:\Users\daisy\source\repos\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.pdb
+C:\Users\daisy\source\repos\C-Sharp-Tech-Academy-2021\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.csprojAssemblyReference.cache
+C:\Users\daisy\source\repos\C-Sharp-Tech-Academy-2021\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.csproj.CoreCompileInputs.cache
+C:\Users\daisy\source\repos\C-Sharp-Tech-Academy-2021\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.dll
+C:\Users\daisy\source\repos\C-Sharp-Tech-Academy-2021\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.pdb
