@@ -11,7 +11,7 @@ namespace CarInsurance.Models
 {
     using System;
     using System.Collections.Generic;
-    
+
     public partial class Insuree
     {
         public int Id { get; set; }
@@ -27,4 +27,7 @@ namespace CarInsurance.Models
         public bool CoverageType { get; set; }
         public decimal Quote { get; set; }
     }
+
+   
+
 }

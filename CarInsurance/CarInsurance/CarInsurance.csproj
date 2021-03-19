@@ -8,7 +8,7 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{AD401512-5375-498C-A68F-8E04DD530849}</ProjectGuid>
+    <ProjectGuid>{92C13654-4F77-46C4-87AB-0A942F7655A8}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -18,7 +18,7 @@
     <MvcBuildViews>false</MvcBuildViews>
     <UseIISExpress>true</UseIISExpress>
     <Use64BitIISExpress />
-    <IISExpressSSLPort>44301</IISExpressSSLPort>
+    <IISExpressSSLPort>44323</IISExpressSSLPort>
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
@@ -151,9 +151,6 @@
     <Compile Include="Models\Insuree.cs">
       <DependentUpon>InsuranceEntities.tt</DependentUpon>
     </Compile>
-    <Compile Include="Models\Table.cs">
-      <DependentUpon>InsuranceEntities.tt</DependentUpon>
-    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -218,6 +215,7 @@
     <Content Include="Views\Insuree\Details.cshtml" />
     <Content Include="Views\Insuree\Edit.cshtml" />
     <Content Include="Views\Insuree\Index.cshtml" />
+    <Content Include="Views\Admin.cshtml" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
@@ -252,9 +250,9 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>54315</DevelopmentServerPort>
+          <DevelopmentServerPort>57420</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>https://localhost:44301/</IISUrl>
+          <IISUrl>https://localhost:44323/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
