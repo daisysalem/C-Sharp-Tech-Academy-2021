@@ -109,6 +109,12 @@ namespace CarInsurance.Controllers
             return View(insuree);
         }
 
+        public ActionResult Admin()
+        {
+            return View(db.Insurees.ToList());
+        }
+
+
         // GET: Insuree/Edit/5
         public ActionResult Edit(int? id)
         {
