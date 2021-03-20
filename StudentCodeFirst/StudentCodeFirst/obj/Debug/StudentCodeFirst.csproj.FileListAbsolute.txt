@@ -1,0 +1,2 @@
+C:\Users\daisy\source\repos\StudentCodeFirst\StudentCodeFirst\obj\Debug\StudentCodeFirst.csprojAssemblyReference.cache
+C:\Users\daisy\source\repos\StudentCodeFirst\StudentCodeFirst\obj\Debug\StudentCodeFirst.csproj.CoreCompileInputs.cache
