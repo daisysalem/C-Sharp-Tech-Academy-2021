@@ -1,2 +1,4 @@
 C:\Users\daisy\source\repos\StudentCodeFirst\StudentCodeFirst\obj\Debug\StudentCodeFirst.csprojAssemblyReference.cache
 C:\Users\daisy\source\repos\StudentCodeFirst\StudentCodeFirst\obj\Debug\StudentCodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\daisy\source\repos\C-Sharp-Tech-Academy-2021\StudentCodeFirst\StudentCodeFirst\obj\Debug\StudentCodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\daisy\source\repos\C-Sharp-Tech-Academy-2021\StudentCodeFirst\StudentCodeFirst\obj\Debug\StudentCodeFirst.csprojAssemblyReference.cache

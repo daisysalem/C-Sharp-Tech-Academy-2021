@@ -1,11 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Data.Entity;
 
-namespace StudentCodeFirst
+namespace StudentCodeFirst3
 {
     class Program
     {
@@ -17,6 +12,7 @@ namespace StudentCodeFirst
 
                 ctx.Students.Add(stud);
                 ctx.SaveChanges();
+
             }
         }
     }
